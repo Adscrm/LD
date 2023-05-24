@@ -21,7 +21,7 @@ That is why it is very important that our kitchen is comfortable and has an attr
 
 
 
-![Design ideas for kitchen_1](img/Ideas-for-kitchen-design-1.png 'Design ideas for kitchen_1')
+![Design ideas for kitchen_1](/img/Ideas-for-kitchen-design-1.png 'Design ideas for kitchen_1')
 
 
 ## **Kitchen layout**
@@ -32,7 +32,7 @@ Before starting repairs in an apartment or a private house, it is very important
 - **U-shaped.** This type of layout resembles the previous one, however, the bar counter here is not the main dining area, it is an addition to the kitchen set. This area can be used as a working area or as an additional dining area.
 - **Island.** If your kitchen has a fairly large area, then you can think about installing an island. The island is installed in the middle of the room and serves as an additional work area or dining table. However, the island must be high enough, because bar stools must go to it.
 
-![Design ideas for kitchen_2](img/Ideas-for-kitchen-design-2.png 'Design ideas for kitchen_2')
+![Design ideas for kitchen_2](/img/Ideas-for-kitchen-design-2.png 'Design ideas for kitchen_2')
 
 ## **How to organize space in the kitchen**
 
@@ -42,7 +42,7 @@ The kitchen is conditionally divided into the following zones: a place for prepa
 
 > For example, food preparation areas can be multiple for added convenience. One of these zones must be placed between the sink and the stove. Another can be placed between the refrigerator and the sink, and another one behind the stove. Also make sure that there is enough light in these areas.
 
-![Kitchen design ideas_3](img/Ideas-for-kitchen-design-3.png 'Kitchen design ideas_3')
+![Kitchen design ideas_3](/img/Ideas-for-kitchen-design-3.png 'Kitchen design ideas_3')
 
 **The place for washing is the sink**. Above it should be a cabinet with a dryer - a special basket for wet dishes, from where water will drain. There should be a garbage place under the sink, as well as shelves for various household chemicals.
 
@@ -64,7 +64,7 @@ In the kitchen, design is very important, because it is not only your personal c
 
 _**Country style** is a very special and cozy design, reminiscent of a country house. Despite the fact that this style originated at the beginning of the 20th century, it still remains a relevant and stylish solution for interiors._
 
-![Kitchen Design Ideas_4](img/Ideas-for-kitchen-design-4.png 'Kitchen Design Ideas_4')
+![Kitchen Design Ideas_4](/img/Ideas-for-kitchen-design-4.png 'Kitchen Design Ideas_4')
 
 This style is simple and functional. Natural, non-hazardous materials predominate here. Country-style interiors have a warm and calm color scheme. The main colors we most often become are shades of brown.
 
@@ -84,7 +84,7 @@ _**Modern kitchen** is a kitchen whose design combines comfort and sophisticatio
 
 Art Nouveau style uses natural materials, mainly wood and glass. Floral and animal ornaments on walls, furniture upholstery, tablecloths, etc. are welcome here.
 
-![Kitchen Design Ideas_5](img/Ideas-for-kitchen-design-5.png 'Kitchen Design Ideas_5')
+![Kitchen Design Ideas_5](/img/Ideas-for-kitchen-design-5.png 'Kitchen Design Ideas_5')
 
 Another element of style that distinguishes Art Nouveau from others is stained glass windows. It is also appropriate to use patterns of plants and animals. Often stained glass windows for this style are made of colored glass.
 
@@ -106,7 +106,7 @@ _**Loft** is a modern design of a kitchen or any other room, which many people a
 
 The style is characterized by an open layout, a lot of space, the presence of beams, pipes and raw walls. Therefore, the loft style fits best in studios with high ceilings.
 
-![Kitchen design ideas_6](img/Ideas-for-kitchen-design-6.jpg 'Kitchen design ideas_6')
+![Kitchen design ideas_6](/img/Ideas-for-kitchen-design-6.jpg 'Kitchen design ideas_6')
 
 In the loft style, materials such as wood, stone, concrete, metal are used. Also, often all materials are artificially aged.
 
@@ -118,7 +118,7 @@ Imagine a provincial house somewhere on the coast of France. What kind of cuisin
 
 _The **Provence** style is characterized by furniture with artistic curves, the use of natural materials and the presence of floral ornaments. Delicate and pastel shades of yellow, turquoise and lavender are used as the main colors in Provence._
 
-![Kitchen design ideas_7](img/Ideas-for-kitchen-design-7.png 'Kitchen design ideas_7')
+![Kitchen design ideas_7](/img/Ideas-for-kitchen-design-7.png 'Kitchen design ideas_7')
 
 The style is also characterized by the use of textile decor. It can be knitted napkins, beautiful tablecloths, cute curtains, carpets, etc. In addition to textiles, you can decorate the interior of the kitchen with various plants, pots, vases, baskets, etc.
 
@@ -130,17 +130,17 @@ Designs of a kitchen set are an important part in the interior of the kitchen. H
 
 A stylish solution is kitchen furniture without handles (push to open). Such lockers open by pressing the front and fit perfectly into any kitchen interiors. However, in this case, it is better to choose matte furniture, since fingerprints will remain on the glossy one.
 
-![Kitchen Design Ideas_8](img/Ideas-for-kitchen-design-8.png 'Kitchen Design Ideas_8')
+![Kitchen Design Ideas_8](/img/Ideas-for-kitchen-design-8.png 'Kitchen Design Ideas_8')
 
 Quite a fashionable and interesting option - accenting with a bright color. The whole kitchen can be made in soothing basic colors, and kitchen furniture can have a bright color.
 
 In addition, for the kitchen, we advise you to choose minimalist furniture without unnecessary details, because the kitchen is a place where there are always splashes of water, grease, food particles, etc. Therefore, it should be easy and quick to wash.
 
-![Design ideas for kitchen_9](img/Ideas-for-kitchen-design-9.png 'Design ideas for kitchen_9')
+![Design ideas for kitchen_9](/img/Ideas-for-kitchen-design-9.png 'Design ideas for kitchen_9')
 
 It is very important to choose the right countertop for the work surface. They are made from different materials and in different colors. for example, stone or marble countertops always look advantageous and elegant.
 
-![Design ideas for kitchen_10](img/Ideas-for-kitchen-design-10.png 'Design ideas for kitchen_10')
+![Design ideas for kitchen_10](/img/Ideas-for-kitchen-design-10.png 'Design ideas for kitchen_10')
 
 _Next, we’ll talk about how to choose colors for the kitchen so that they blend well with each other._
 
@@ -154,7 +154,7 @@ It is also important to be aware of the visual impact of color on a room. We wil
 
 **Tip #2.** Designers advise you to choose the color of furniture in the kitchen so that it matches the color of the finish or decor elements.
 
-![Design ideas for kitchen_11](img/Ideas-for-kitchen-design-11.png 'Design ideas for kitchen_11')
+![Design ideas for kitchen_11](/img/Ideas-for-kitchen-design-11.png 'Design ideas for kitchen_11')
 
 **Tip #3.** When using bright colors, combine them wisely. In order not to make a mistake, use the Itten color circle. Such a circle is divided into 12 colored sectors, the basis of which is red, yellow and blue. There are several ways to successfully combine colors:
 
